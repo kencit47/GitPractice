@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+Add a line
+>>>>>>> parent of 7c841a8... change txt
